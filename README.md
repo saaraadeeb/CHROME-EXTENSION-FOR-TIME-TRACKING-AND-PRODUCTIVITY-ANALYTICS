@@ -32,4 +32,8 @@ Overall, this task gave me hands-on experience in Full Stack Development and imp
 
 <img width="1917" height="602" alt="Image" src="https://github.com/user-attachments/assets/e5ad55dc-65e6-4e3c-bac8-51b9ea7968a1" />
 
+##Popup Message Showing Website Tracking Running Successfully
+
+<img width="448" height="161" alt="Image" src="https://github.com/user-attachments/assets/4075c390-250c-4221-b3e1-5b8079df8c94" />
+
 
