@@ -12,9 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH 
 
-##Task Description – Chrome Extension for Time Tracking
-
-As part of my Full Stack Development internship, I developed a Chrome Extension for Time Tracking using web development technologies. The main objective of this project is to track the time spent on different websites in the Google Chrome browser. This project helped me understand how browser extensions work and how frontend technologies are used in real-world applications.
+##As part of my Full Stack Development internship, I developed a Chrome Extension for Time Tracking using web development technologies. The main objective of this project is to track the time spent on different websites in the Google Chrome browser. This project helped me understand how browser extensions work and how frontend technologies are used in real-world applications.
 
 The project was developed using HTML, CSS, and JavaScript in Visual Studio Code (VS Code). HTML was used to create the structure of the popup interface, CSS was used for designing and styling the extension, and JavaScript was used to add functionality and website tracking features. The extension was tested and executed in the Google Chrome browser.
 
