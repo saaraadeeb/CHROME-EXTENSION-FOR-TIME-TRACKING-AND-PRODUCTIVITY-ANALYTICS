@@ -38,6 +38,6 @@ Overall, this task gave me hands-on experience in Full Stack Development and imp
 
 ##OUTPUT
 
-<img width="785" height="229" alt="Image" src="https://github.com/user-attachments/assets/7f06b6ae-0cd5-47cd-97fa-87f49b078ec9" />
+<img width="781" height="220" alt="Image" src="https://github.com/user-attachments/assets/59433e19-3e73-45bd-b8f1-9f6a43bcb788" />
 
 
