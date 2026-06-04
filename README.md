@@ -26,6 +26,10 @@ This project also helped me improve problem-solving and debugging skills. While 
 
 The popup interface of the extension provides a simple and user-friendly design. The extension successfully displays tracking messages and runs website tracking functionality in the background. The project demonstrates the practical implementation of JavaScript and browser extension development concepts.
 
+#Chrome Extension Successfully Enabled
+
+<img width="1917" height="602" alt="Image" src="https://github.com/user-attachments/assets/e5ad55dc-65e6-4e3c-bac8-51b9ea7968a1" />
+
 Overall, this task gave me hands-on experience in Full Stack Development and improved my understanding of Chrome extension development. It enhanced my technical skills in HTML, CSS, JavaScript, debugging, browser APIs, and project management. This internship task helped me gain confidence in developing real-time web applications and browser-based tools using modern web technologies.
 
 
